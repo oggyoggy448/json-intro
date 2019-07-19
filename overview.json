@@ -1,0 +1,9 @@
+{
+    "name":"nouman",
+    "age": 30,
+    "height": 5.7,
+    "other_info": ["chongqing university","male","master level"],
+    "garbage": null,
+    "con": true,
+    "object": {"key":"value"}
+}
